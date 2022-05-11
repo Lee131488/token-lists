@@ -865,6 +865,13 @@
       "name": "Maker",
       "symbol": "MKR",
       "decimals": 18
+    },
+    {
+      "address": "0x5c3Ed5d0A8B0871c075b124368155AE9e9142DA0",
+      "chainId": 1,
+      "name": "LEECOIN",
+      "symbol": "LEE",
+      "decimals": 18
     }
   ]
 }
